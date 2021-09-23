@@ -1,0 +1,59 @@
+#main {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+h1 { 
+    color: #000000; 
+    font-family: 'Raleway',sans-serif; 
+    font-weight: 800; 
+}
+label {
+    color: #000000; 
+    font-family: 'Raleway',sans-serif; 
+    font-weight: 800; 
+    font-size: 25px;
+    padding-right: 20px;
+    padding-left: 10px;
+}
+li {
+    color: #000000; 
+    font-family: 'Raleway',sans-serif; 
+    font-weight: 800; 
+}
+#score {
+    color: #000000; 
+    font-family: 'Raleway',sans-serif; 
+    font-weight: 800; 
+}
+.flexColumnElement {
+    align-self: center;
+    padding: 20px;
+}
+#userInput {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.popup {
+    color: #000000; 
+    font-family: 'Raleway',sans-serif; 
+    font-weight: 800;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+#townInput {
+    width: 200px;
+    height: 30px;
+    font-family: 'Raleway',sans-serif; 
+    font-size: 20px;
+    font-weight: 600;
+}
+#tick {
+    width: 60px;
+    height: 60px;
+    visibility: hidden;
+}
