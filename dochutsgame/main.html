@@ -1,0 +1,51 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+
+    <title>How Many NZ Towns Can You Name?</title>
+    <meta name="description" content="A geography game to name as many DOC Huts as possible">
+    <meta name="author" content="Matthew Creahan">
+
+    <meta property="og:title" content="How Many DOC Huts Can You Name?">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="PLACEHOLDER">
+    <meta property="og:description" content="A geography game to name as many DOC Huts as possible">
+    <meta property="og:image" content="PLACEHOLDER">
+
+    <link rel="icon" href="/favicons/favicon.ico">
+    <link rel="icon" href="/favicons/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="favicons/apple-touch-icon.png">
+
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/map.css">
+
+    <script src="js/gameLogic.js"></script>
+
+    <!-- Mapbox API Setup -->
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.4.1/mapbox-gl.css' rel='stylesheet' />
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.4.1/mapbox-gl.js'></script>
+    
+</head>
+
+<body onload="loadHuts()">
+    <div id="main">
+        <div class="flexColumnElement">
+            <h1>How Many DOC Huts can you name?</h1>
+        </div>
+        <div id="map" class="flexColumnElement"></div>
+        <div id="userInput" class="flexColumnElement">
+            <label for="hutInput">Enter a hut/bivvy:</label>
+            <input type="text" id="hutInput" name="hutInput" oninput="checkInput()">
+            <img src="/images/tick.png" id="tick">
+        </div>
+        <div class="flexColumnElement">
+            <p id="score"></p>
+        </div>
+        <ol id="foundHuts" class="flexColumnElement"></ol>
+    </div>
+    <script src="js/map.js"></script>
+</body>
+</html>
