@@ -65,7 +65,7 @@
   },
   {
     "assetId": 100085933,
-    "name": "Waimak Gorge - Walker Hut",
+    "name": "Walker Hut",
     "status": "OPEN",
     "region": null,
     "lat": -43.194134,
@@ -681,7 +681,7 @@
   },
   {
     "assetId": 100059503,
-    "name": "Julia Hut (old)",
+    "name": "Julia Hut",
     "status": "OPEN",
     "region": "West Coast",
     "lat": -42.897434,
@@ -1025,7 +1025,7 @@
   },
   {
     "assetId": 100071787,
-    "name": "Sentry Box Hut (historic)",
+    "name": "Sentry Box Hut",
     "status": "OPEN",
     "region": "Hawke’s Bay",
     "lat": -39.668701,
@@ -1305,7 +1305,7 @@
   },
   {
     "assetId": 100043242,
-    "name": "Onslow Hut (Steffan Memorial Hut)",
+    "name": "Onslow Hut",
     "status": "OPEN",
     "region": "Canterbury",
     "lat": -43.61014,
@@ -1377,7 +1377,7 @@
   },
   {
     "assetId": 100063065,
-    "name": "Christopher (Ada) Cullers Hut",
+    "name": "Christopher Cullers Hut",
     "status": "OPEN",
     "region": "Canterbury",
     "lat": -42.283155,
@@ -1393,7 +1393,7 @@
   },
   {
     "assetId": 100063298,
-    "name": "North Esk Hut (dilapidated)",
+    "name": "North Esk Hut",
     "status": "OPEN",
     "region": "Canterbury",
     "lat": -42.800671,
@@ -1753,7 +1753,7 @@
   },
   {
     "assetId": 100097382,
-    "name": "OGR - Specimen Point Hut",
+    "name": "Specimen Point Hut",
     "status": "OPEN",
     "region": null,
     "lat": -41.544702,
@@ -1761,7 +1761,7 @@
   },
   {
     "assetId": 100097388,
-    "name": "OGR - Stern Valley Hut",
+    "name": "Stern Valley Hut",
     "status": "OPEN",
     "region": null,
     "lat": -41.663634,
@@ -1769,7 +1769,7 @@
   },
   {
     "assetId": 100097391,
-    "name": "OGR - Ghost Lake Hut",
+    "name": "Ghost Lake Hut",
     "status": "OPEN",
     "region": null,
     "lat": -41.699982,
@@ -1777,7 +1777,7 @@
   },
   {
     "assetId": 100097401,
-    "name": "OGR - Lyell Saddle Hut",
+    "name": "Lyell Saddle Hut",
     "status": "OPEN",
     "region": null,
     "lat": -41.723838,
@@ -1841,7 +1841,7 @@
   },
   {
     "assetId": 100039016,
-    "name": "Forbes Hut (previously Seymour Hut)",
+    "name": "Forbes Hut",
     "status": "OPEN",
     "region": "Marlborough",
     "lat": -42.221716,
@@ -2545,7 +2545,7 @@
   },
   {
     "assetId": 100041250,
-    "name": "Whangaehu Hut (NZAC)",
+    "name": "Whangaehu Hut",
     "status": "OPEN",
     "region": "Central North Island",
     "lat": -39.283228,
@@ -3049,7 +3049,7 @@
   },
   {
     "assetId": 100085934,
-    "name": "Waimak Gorge - Hamilton Hut",
+    "name": "Hamilton Hut",
     "status": "OPEN",
     "region": null,
     "lat": -43.118264,
@@ -3385,7 +3385,7 @@
   },
   {
     "assetId": 100033953,
-    "name": "Skips Hut (Whangatawhia)",
+    "name": "Skips Hut",
     "status": "OPEN",
     "region": "East Coast",
     "lat": -38.720584,
@@ -3465,7 +3465,7 @@
   },
   {
     "assetId": 100056871,
-    "name": "Rogers Hut (Te Wairoa)",
+    "name": "Rogers Hut",
     "status": "OPEN",
     "region": "East Coast",
     "lat": -38.752778,
@@ -3609,7 +3609,7 @@
   },
   {
     "assetId": 100040519,
-    "name": "Mangaotane Hut (McMillans)",
+    "name": "Mangaotane Hut",
     "status": "OPEN",
     "region": "East Coast",
     "lat": -38.099094,
@@ -3881,7 +3881,7 @@
   },
   {
     "assetId": 100033714,
-    "name": "Te Pukeohikarua (Te Puke) Hut",
+    "name": "Te Pukeohikarua Hut",
     "status": "OPEN",
     "region": "Hawke’s Bay",
     "lat": -39.193077,
@@ -4001,7 +4001,7 @@
   },
   {
     "assetId": 100055416,
-    "name": "Venison Tops Hut (Tira Lodge)",
+    "name": "Venison Tops Hut",
     "status": "OPEN",
     "region": "Hawke’s Bay",
     "lat": -39.246789,
@@ -4673,7 +4673,7 @@
   },
   {
     "assetId": 100131850,
-    "name": "Waiotauru Hut - 2019",
+    "name": "Waiotauru Hut",
     "status": "OPEN",
     "region": null,
     "lat": -40.939075,
@@ -4681,7 +4681,7 @@
   },
   {
     "assetId": 100132644,
-    "name": "Iron Gate Hut - 2019",
+    "name": "Iron Gate Hut",
     "status": "OPEN",
     "region": null,
     "lat": -39.926949,
@@ -4697,7 +4697,7 @@
   },
   {
     "assetId": 100030937,
-    "name": "Little Glory Hunters Hut",
+    "name": "Little Glory Hut",
     "status": "OPEN",
     "region": "Southland",
     "lat": -46.974256,
@@ -4705,7 +4705,7 @@
   },
   {
     "assetId": 100030976,
-    "name": "Kellys Hunters Hut",
+    "name": "Kellys Hut",
     "status": "OPEN",
     "region": "Southland",
     "lat": -47.072359,
@@ -4713,7 +4713,7 @@
   },
   {
     "assetId": 100039845,
-    "name": "Abrahams Bay Hunters Hut",
+    "name": "Abrahams Bay Hut",
     "status": "OPEN",
     "region": "Southland",
     "lat": -46.947992,
@@ -4721,7 +4721,7 @@
   },
   {
     "assetId": 100039936,
-    "name": "Hapuatuna Hunters Hut",
+    "name": "Hapuatuna Hut",
     "status": "OPEN",
     "region": "Southland",
     "lat": -46.954472,
@@ -4729,7 +4729,7 @@
   },
   {
     "assetId": 100040562,
-    "name": "North Pegasus Hunters Hut",
+    "name": "North Pegasus Hut",
     "status": "OPEN",
     "region": "Southland",
     "lat": -47.194294,
@@ -4737,7 +4737,7 @@
   },
   {
     "assetId": 100040563,
-    "name": "South Pegasus Hunters Hut",
+    "name": "South Pegasus Hut",
     "status": "OPEN",
     "region": "Southland",
     "lat": -47.19822,
@@ -4745,7 +4745,7 @@
   },
   {
     "assetId": 100040564,
-    "name": "North Big Glory Hunters Hut",
+    "name": "North Big Glory Hut",
     "status": "OPEN",
     "region": "Southland",
     "lat": -46.959488,
@@ -4753,7 +4753,7 @@
   },
   {
     "assetId": 100041350,
-    "name": "North Tikotatahi Hunters Hut",
+    "name": "North Tikotatahi Hut",
     "status": "OPEN",
     "region": "Southland",
     "lat": -47.084798,
@@ -4801,7 +4801,7 @@
   },
   {
     "assetId": 100055693,
-    "name": "Cavalier Hunters Hut",
+    "name": "Cavalier Hut",
     "status": "OPEN",
     "region": "Southland",
     "lat": -46.963199,
@@ -4817,7 +4817,7 @@
   },
   {
     "assetId": 100057328,
-    "name": "CHEW TOBACCO HUNTERS HUT",
+    "name": "CHEW TOBACCO HUT",
     "status": "OPEN",
     "region": null,
     "lat": -47.016952,
@@ -4841,7 +4841,7 @@
   },
   {
     "assetId": 100072277,
-    "name": "Port Adventure Hunters Hut",
+    "name": "Port Adventure Hut",
     "status": "OPEN",
     "region": "Southland",
     "lat": -47.049544,
@@ -4873,7 +4873,7 @@
   },
   {
     "assetId": 100073711,
-    "name": "Southwest Arm Hunters Hut",
+    "name": "Southwest Arm Hut",
     "status": "OPEN",
     "region": "Southland",
     "lat": -46.935622,
@@ -4881,7 +4881,7 @@
   },
   {
     "assetId": 100081526,
-    "name": "Homestead Hunters Hut",
+    "name": "Homestead Hut",
     "status": "OPEN",
     "region": "Southland",
     "lat": -46.920537,
@@ -4889,7 +4889,7 @@
   },
   {
     "assetId": 100081528,
-    "name": "Martins Creek Hunters Hut",
+    "name": "Martins Creek Hut",
     "status": "OPEN",
     "region": "Southland",
     "lat": -46.939114,
@@ -4897,7 +4897,7 @@
   },
   {
     "assetId": 100090949,
-    "name": "Upper Lords Hunters Hut",
+    "name": "Upper Lords Hut",
     "status": "OPEN",
     "region": "Southland",
     "lat": -47.075007,
@@ -4905,7 +4905,7 @@
   },
   {
     "assetId": 100098966,
-    "name": "Murray Hunters Hut",
+    "name": "Murray Hut",
     "status": "OPEN",
     "region": "Southland",
     "lat": -46.781663,
@@ -4913,7 +4913,7 @@
   },
   {
     "assetId": 100101442,
-    "name": "Smoky Hunters Hut",
+    "name": "Smoky Hut",
     "status": "OPEN",
     "region": "Southland",
     "lat": -46.70442,
@@ -4921,7 +4921,7 @@
   },
   {
     "assetId": 100122608,
-    "name": "CHRISTMAS VILLAGE HUNTERS HUT - 2017",
+    "name": "CHRISTMAS VILLAGE HUT",
     "status": "OPEN",
     "region": null,
     "lat": -46.750892,
@@ -4929,7 +4929,7 @@
   },
   {
     "assetId": 100128523,
-    "name": "Little Hellfire Hunters Hut - 2018",
+    "name": "Little Hellfire Hut",
     "status": "OPEN",
     "region": null,
     "lat": -46.860257,
@@ -5049,7 +5049,7 @@
   },
   {
     "assetId": 100055258,
-    "name": "APARIMA - TONY'S HUT",
+    "name": "TONY'S HUT",
     "status": "OPEN",
     "region": null,
     "lat": -45.70778,
@@ -5057,7 +5057,7 @@
   },
   {
     "assetId": 100056297,
-    "name": "Turnbull's (Big Dam) Hut",
+    "name": "Turnbull's Hut",
     "status": "OPEN",
     "region": "Southland",
     "lat": -46.291583,
@@ -5281,7 +5281,7 @@
   },
   {
     "assetId": 100031575,
-    "name": "Archie's Hut - Copper Creek",
+    "name": "Archie's Hut",
     "status": "OPEN",
     "region": "Otago",
     "lat": -44.796056,
@@ -5289,7 +5289,7 @@
   },
   {
     "assetId": 100031576,
-    "name": "Ballarat Hut - Flood Burn",
+    "name": "Ballarat Hut",
     "status": "OPEN",
     "region": "Otago",
     "lat": -44.750963,
@@ -5361,7 +5361,7 @@
   },
   {
     "assetId": 100072825,
-    "name": "Traverse (A-Frame) Hut",
+    "name": "Traverse Hut",
     "status": "CLSD",
     "region": "Hawke’s Bay",
     "lat": -40.107185,
@@ -5897,7 +5897,7 @@
   },
   {
     "assetId": 100075589,
-    "name": "Mackenzie Bivvy (East branch) ",
+    "name": "Mackenzie Bivvy",
     "status": "OPEN",
     "region": "Canterbury",
     "lat": -42.647548,
@@ -5921,7 +5921,7 @@
   },
   {
     "assetId": 100039154,
-    "name": "Otamatapaio Hut ",
+    "name": "Otamatapaio Hut",
     "status": "OPEN",
     "region": "Canterbury",
     "lat": -44.673133,
@@ -6345,7 +6345,7 @@
   },
   {
     "assetId": 100053419,
-    "name": "Glory Bay Whalers Cottage (H)",
+    "name": "Glory Bay",
     "status": "OPEN",
     "region": null,
     "lat": -44.319238,
@@ -6425,7 +6425,7 @@
   },
   {
     "assetId": 100073237,
-    "name": "Te Puia Hut (Lodge)",
+    "name": "Te Puia Hut",
     "status": "OPEN",
     "region": "Hawke’s Bay",
     "lat": -39.172305,
@@ -6817,7 +6817,7 @@
   },
   {
     "assetId": 100098680,
-    "name": "Leaning Lodge (Re-built)",
+    "name": "Leaning Lodge",
     "status": "CLSD",
     "region": null,
     "lat": -45.419668,
@@ -7209,7 +7209,7 @@
   },
   {
     "assetId": 100058417,
-    "name": "Rodger Inlet Hut (historic)",
+    "name": "Rodger Inlet Hut",
     "status": "OPEN",
     "region": "Fiordland",
     "lat": -45.857218,
@@ -7337,7 +7337,7 @@
   },
   {
     "assetId": 100072296,
-    "name": "IRON WHARE (H)",
+    "name": "IRON WHARE",
     "status": "OPEN",
     "region": null,
     "lat": -39.256145,
@@ -7553,7 +7553,7 @@
   },
   {
     "assetId": 100074649,
-    "name": "Clark Hut - A Frame",
+    "name": "Clark Hut",
     "status": "OPEN",
     "region": "Fiordland",
     "lat": -45.792325,
