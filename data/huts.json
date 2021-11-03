@@ -3897,7 +3897,7 @@
   },
   {
     "assetId": 100033736,
-    "name": "Rocks Ahead Bivouac",
+    "name": "Rocks Ahead Bivvy",
     "status": "OPEN",
     "region": "Hawke’s Bay",
     "lat": -39.275469,
@@ -3905,7 +3905,7 @@
   },
   {
     "assetId": 100033737,
-    "name": "Back Ridge Bivouac",
+    "name": "Back Ridge Bivvy",
     "status": "OPEN",
     "region": "Hawke’s Bay",
     "lat": -39.288863,
@@ -5561,7 +5561,7 @@
   },
   {
     "assetId": 100063446,
-    "name": "Sefton Bivouac",
+    "name": "Sefton Bivvy",
     "status": "OPEN",
     "region": "Canterbury",
     "lat": -43.687879,
@@ -5569,19 +5569,11 @@
   },
   {
     "assetId": 100043236,
-    "name": "Carney's Bivvy No. 1",
+    "name": "Carney's Bivvy",
     "status": "OPEN",
     "region": "Canterbury",
     "lat": -43.496209,
     "lon": 170.66233
-  },
-  {
-    "assetId": 100043237,
-    "name": "Carney's Bivvy No. 2",
-    "status": "OPEN",
-    "region": "Canterbury",
-    "lat": -43.496242,
-    "lon": 170.662181
   },
   {
     "assetId": 100043238,
