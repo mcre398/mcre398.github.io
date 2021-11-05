@@ -64,14 +64,6 @@
     "lon": 172.096159
   },
   {
-    "assetId": 100085933,
-    "name": "Walker Hut",
-    "status": "OPEN",
-    "region": null,
-    "lat": -43.194134,
-    "lon": 171.95154
-  },
-  {
     "assetId": 100063470,
     "name": "Goat Pass Hut",
     "status": "OPEN",
@@ -438,14 +430,6 @@
     "region": "Nelson/Tasman",
     "lat": -41.71926,
     "lon": 172.931114
-  },
-  {
-    "assetId": 100043688,
-    "name": "Rerekapa Hut",
-    "status": "OPEN",
-    "region": null,
-    "lat": -38.9343,
-    "lon": 174.721036
   },
   {
     "assetId": 100044065,
@@ -1176,38 +1160,6 @@
     "lon": 175.271659
   },
   {
-    "assetId": 100097715,
-    "name": "Pahautea Hut 20 bunk",
-    "status": "OPEN",
-    "region": null,
-    "lat": -37.993378,
-    "lon": 175.09188
-  },
-  {
-    "assetId": 100098295,
-    "name": "Whangamarino Duck Hut B",
-    "status": "OPEN",
-    "region": null,
-    "lat": -37.354803,
-    "lon": 175.183802
-  },
-  {
-    "assetId": 100098296,
-    "name": "Whangamarino Duck Hut C",
-    "status": "OPEN",
-    "region": null,
-    "lat": -37.334722,
-    "lon": 175.119519
-  },
-  {
-    "assetId": 100098297,
-    "name": "Whangamarino Duck Hut E",
-    "status": "OPEN",
-    "region": null,
-    "lat": -37.337647,
-    "lon": 175.136261
-  },
-  {
     "assetId": 100102808,
     "name": "Soper Shelter",
     "status": "OPEN",
@@ -1408,14 +1360,6 @@
     "lon": 169.833547
   },
   {
-    "assetId": 100075443,
-    "name": "Haast Hut",
-    "status": "CLSD",
-    "region": null,
-    "lat": -43.583207,
-    "lon": 170.196998
-  },
-  {
     "assetId": 100075445,
     "name": "Liebig Hut",
     "status": "OPEN",
@@ -1502,14 +1446,6 @@
     "region": "Canterbury",
     "lat": -43.367114,
     "lon": 171.018066
-  },
-  {
-    "assetId": 100031574,
-    "name": "Murchison Hut",
-    "status": "CLSD",
-    "region": null,
-    "lat": -43.519447,
-    "lon": 170.394205
   },
   {
     "assetId": 100055450,
@@ -1744,42 +1680,18 @@
     "lon": 175.830682
   },
   {
-    "assetId": 100095579,
-    "name": "Mt Curtis Hut",
-    "status": "OPEN",
-    "region": null,
-    "lat": -41.899149,
-    "lon": 172.045988
-  },
-  {
-    "assetId": 100097382,
-    "name": "Specimen Point Hut",
-    "status": "OPEN",
-    "region": null,
-    "lat": -41.544702,
-    "lon": 172.152216
-  },
-  {
     "assetId": 100097388,
     "name": "Stern Valley Hut",
     "status": "OPEN",
-    "region": null,
+    "region": "West Coast",
     "lat": -41.663634,
     "lon": 172.19886
-  },
-  {
-    "assetId": 100097391,
-    "name": "Ghost Lake Hut",
-    "status": "OPEN",
-    "region": null,
-    "lat": -41.699982,
-    "lon": 172.159074
   },
   {
     "assetId": 100097401,
     "name": "Lyell Saddle Hut",
     "status": "OPEN",
-    "region": null,
+    "region": "West Coast",
     "lat": -41.723838,
     "lon": 172.099262
   },
@@ -3051,7 +2963,7 @@
     "assetId": 100085934,
     "name": "Hamilton Hut",
     "status": "OPEN",
-    "region": null,
+    "region": "Canterbury",
     "lat": -43.118264,
     "lon": 171.966751
   },
@@ -4227,7 +4139,7 @@
     "assetId": 100135652,
     "name": "Aranga Hut",
     "status": "CLSD",
-    "region": null,
+    "region": "Hawke’s Bay",
     "lat": -39.634359,
     "lon": 176.253528
   },
@@ -4643,7 +4555,7 @@
     "assetId": 100134889,
     "name": "Lyell Hut",
     "status": "OPEN",
-    "region": null,
+    "region": "Canterbury",
     "lat": -43.299146,
     "lon": 170.909655
   },
@@ -4675,7 +4587,7 @@
     "assetId": 100131850,
     "name": "Waiotauru Hut",
     "status": "OPEN",
-    "region": null,
+    "region": "Wellington/Kapiti",
     "lat": -40.939075,
     "lon": 175.18521
   },
@@ -4683,7 +4595,7 @@
     "assetId": 100132644,
     "name": "Iron Gate Hut",
     "status": "OPEN",
-    "region": null,
+    "region": "Manawatu/Whanganui",
     "lat": -39.926949,
     "lon": 176.057111
   },
@@ -4819,7 +4731,7 @@
     "assetId": 100057328,
     "name": "CHEW TOBACCO HUT",
     "status": "OPEN",
-    "region": null,
+    "region": "Southland",
     "lat": -47.016952,
     "lon": 168.210864
   },
@@ -4920,26 +4832,10 @@
     "lon": 167.831411
   },
   {
-    "assetId": 100122608,
-    "name": "CHRISTMAS VILLAGE HUT",
-    "status": "OPEN",
-    "region": null,
-    "lat": -46.750892,
-    "lon": 167.981437
-  },
-  {
-    "assetId": 100128523,
-    "name": "Little Hellfire Hut",
-    "status": "OPEN",
-    "region": null,
-    "lat": -46.860257,
-    "lon": 167.758471
-  },
-  {
     "assetId": 100030327,
     "name": "Upper Oreti Hut",
     "status": "OPEN",
-    "region": null,
+    "region": "Southland",
     "lat": -45.375398,
     "lon": 168.217835
   },
@@ -4947,7 +4843,7 @@
     "assetId": 100030328,
     "name": "Cowshed Hut",
     "status": "OPEN",
-    "region": null,
+    "region": "Southland",
     "lat": -45.371648,
     "lon": 168.471802
   },
@@ -5011,7 +4907,7 @@
     "assetId": 100041235,
     "name": "Dog Box Bivvy",
     "status": "OPEN",
-    "region": null,
+    "region": "Southland",
     "lat": -45.364699,
     "lon": 168.39989
   },
@@ -5046,14 +4942,6 @@
     "region": "Canterbury",
     "lat": -42.316007,
     "lon": 172.660319
-  },
-  {
-    "assetId": 100055258,
-    "name": "TONY'S HUT",
-    "status": "OPEN",
-    "region": null,
-    "lat": -45.70778,
-    "lon": 168.000406
   },
   {
     "assetId": 100056297,
@@ -5192,22 +5080,6 @@
     "lon": 168.12672
   },
   {
-    "assetId": 100090254,
-    "name": "Garston Ski Hut",
-    "status": "OPEN",
-    "region": null,
-    "lat": -45.453934,
-    "lon": 168.747902
-  },
-  {
-    "assetId": 100096756,
-    "name": "DOME BURN SOD HUT",
-    "status": "OPEN",
-    "region": null,
-    "lat": -45.644689,
-    "lon": 168.721071
-  },
-  {
     "assetId": 100034793,
     "name": "Jans Hut",
     "status": "OPEN",
@@ -5307,7 +5179,7 @@
     "assetId": 100038361,
     "name": "Wallers Hut",
     "status": "OPEN",
-    "region": null,
+    "region": "Otago",
     "lat": -44.85236,
     "lon": 168.48367
   },
@@ -6040,14 +5912,6 @@
     "lon": 172.294069
   },
   {
-    "assetId": 100038673,
-    "name": "Officers Hut",
-    "status": "OPEN",
-    "region": null,
-    "lat": -44.007686,
-    "lon": 169.74308
-  },
-  {
     "assetId": 100039037,
     "name": "Plateau Hut",
     "status": "OPEN",
@@ -6336,14 +6200,6 @@
     "lon": 169.089914
   },
   {
-    "assetId": 100053419,
-    "name": "Glory Bay",
-    "status": "OPEN",
-    "region": null,
-    "lat": -44.319238,
-    "lon": -176.202683
-  },
-  {
     "assetId": 100040528,
     "name": "Kirtle Burn Hut",
     "status": "OPEN",
@@ -6363,7 +6219,7 @@
     "assetId": 100042165,
     "name": "Sawyer Burn Hut",
     "status": "OPEN",
-    "region": null,
+    "region": "Otago",
     "lat": -44.415791,
     "lon": 169.257171
   },
@@ -6563,7 +6419,7 @@
     "assetId": 100074844,
     "name": "Bull Flat Hut",
     "status": "OPEN",
-    "region": null,
+    "region": "Otago",
     "lat": -44.157993,
     "lon": 169.538004
   },
@@ -6712,14 +6568,6 @@
     "lon": 172.402773
   },
   {
-    "assetId": 100082266,
-    "name": "Wire Yards Hut",
-    "status": "OPEN",
-    "region": null,
-    "lat": -44.851219,
-    "lon": 170.116613
-  },
-  {
     "assetId": 100082268,
     "name": "Ida Railway Hut",
     "status": "OPEN",
@@ -6731,7 +6579,7 @@
     "assetId": 100082269,
     "name": "Chimney Creek Hut",
     "status": "OPEN",
-    "region": null,
+    "region": "Canterbury",
     "lat": -44.815434,
     "lon": 170.189084
   },
@@ -6806,22 +6654,6 @@
     "region": "Canterbury",
     "lat": -42.895928,
     "lon": 171.871043
-  },
-  {
-    "assetId": 100098680,
-    "name": "Leaning Lodge",
-    "status": "CLSD",
-    "region": null,
-    "lat": -45.419668,
-    "lon": 170.08707
-  },
-  {
-    "assetId": 100099984,
-    "name": "WANAKA FACES HUT",
-    "status": "OPEN",
-    "region": null,
-    "lat": -44.53363,
-    "lon": 169.144668
   },
   {
     "assetId": 100000062,
@@ -6992,108 +6824,12 @@
     "lon": 167.610361
   },
   {
-    "assetId": 100098290,
-    "name": "Kopuatai Duck Hut 9",
-    "status": "OPEN",
-    "region": null,
-    "lat": -37.43803,
-    "lon": 175.519222
-  },
-  {
-    "assetId": 100098291,
-    "name": "Kopuatai Duck Hut 10",
-    "status": "OPEN",
-    "region": null,
-    "lat": -37.432356,
-    "lon": 175.519065
-  },
-  {
-    "assetId": 100098292,
-    "name": "Kopuatai Duck Hut 12",
-    "status": "OPEN",
-    "region": null,
-    "lat": -37.44006,
-    "lon": 175.520397
-  },
-  {
-    "assetId": 100098293,
-    "name": "Kopuatai Duck Hut 16",
-    "status": "OPEN",
-    "region": null,
-    "lat": -37.448694,
-    "lon": 175.523728
-  },
-  {
-    "assetId": 100098294,
-    "name": "Kopuatai Duck Hut 17",
-    "status": "OPEN",
-    "region": null,
-    "lat": -37.448694,
-    "lon": 175.523728
-  },
-  {
     "assetId": 100057665,
     "name": "Upper Spey Hut",
     "status": "OPEN",
     "region": "Fiordland",
     "lat": -45.58024,
     "lon": 167.163205
-  },
-  {
-    "assetId": 100098287,
-    "name": "Kopuatai Duck Hut 6",
-    "status": "OPEN",
-    "region": null,
-    "lat": -37.419236,
-    "lon": 175.523269
-  },
-  {
-    "assetId": 100098288,
-    "name": "Kopuatai Duck Hut 7",
-    "status": "OPEN",
-    "region": null,
-    "lat": -37.427746,
-    "lon": 175.514696
-  },
-  {
-    "assetId": 100098289,
-    "name": "Kopuatai Duck Hut 8",
-    "status": "OPEN",
-    "region": null,
-    "lat": -37.43568,
-    "lon": 175.520838
-  },
-  {
-    "assetId": 100098283,
-    "name": "Kopuatai Duck Hut 1",
-    "status": "OPEN",
-    "region": null,
-    "lat": -37.391723,
-    "lon": 175.52203
-  },
-  {
-    "assetId": 100098284,
-    "name": "Kopuatai Duck Hut 2",
-    "status": "OPEN",
-    "region": null,
-    "lat": -37.398942,
-    "lon": 175.533398
-  },
-  {
-    "assetId": 100098285,
-    "name": "Kopuatai Duck Hut 3",
-    "status": "OPEN",
-    "region": null,
-    "lat": -37.417485,
-    "lon": 175.531413
-  },
-  {
-    "assetId": 100098286,
-    "name": "Kopuatai Duck Hut 5",
-    "status": "OPEN",
-    "region": null,
-    "lat": -37.419563,
-    "lon": 175.527777
   },
   {
     "assetId": 100054672,
@@ -7331,7 +7067,7 @@
     "assetId": 100072296,
     "name": "IRON WHARE",
     "status": "OPEN",
-    "region": null,
+    "region": "Hawke’s Bay",
     "lat": -39.256145,
     "lon": 176.431362
   },
